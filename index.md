@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-big penis griffin
+big griffin
 
 david
 
