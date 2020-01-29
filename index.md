@@ -1,7 +1,7 @@
 
-<ul>
+<ul class = "nav nav-tabs">
 
-<li> <a href = "#"> Lab 7.8.1 </a></li>
+<li class = "active"><a href = "#">Lab 7.8.1</a></li>
 
 ### Group 13 - Section 2
 - Jianqi Chai
