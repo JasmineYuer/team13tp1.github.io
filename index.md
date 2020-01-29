@@ -1,6 +1,7 @@
-## Polynomial Regression and Step Functions {.tabset} 
 
-### Chapter 7 - Lab 7.8.1
+<ul>
+
+<li> <a href = "#"> Lab 7.8.1 </a></li>
 
 ### Group 13 - Section 2
 - Jianqi Chai
@@ -8,7 +9,7 @@
 - Griffin Salyer
 - Jasmine Yu
 
-
+</ul>
 [Lab 7.8.1 Walkthrough Code](/code/G13_TP1.R)
 
 
