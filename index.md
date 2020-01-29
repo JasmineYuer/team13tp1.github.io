@@ -9,4 +9,4 @@
 - Jasmine Yu
 
 
-[Lab 7.8.1 Walkthrough Code](/code/index.md)
+[Lab 7.8.1 Walkthrough Code](/code/G13_TP1.R)
