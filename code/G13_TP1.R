@@ -51,7 +51,7 @@ pfit=exp(preds$fit )/(1+ exp( preds$fit ))
 se.bands.logit = cbind(preds$fit +2* preds$se.fit , preds$fit -2*preds$se.fit)
 se.bands = exp(se.bands.logit)/(1+ exp(se.bands.logit))
 
-preds=predict (fit ,newdata =list(age=age.grid),type=" response ",se=T)
+preds=predict (fit ,newdata =list(age=age.grid),type="response",se=T)
 
 plot(age ,I(wage >250) ,xlim=agelims ,type ="n",ylim=c(0 ,.2) )
 points (jitter (age), I((wage >250) /5) ,cex =.5, pch ="|",col =" darkgrey ")
