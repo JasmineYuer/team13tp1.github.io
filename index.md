@@ -1,6 +1,8 @@
-## Chapter 7 - Lab 7.8.1
+## Polynomial Regression and Step Functions {.tabset} 
 
-## Group 13 - Section 2
+### Chapter 7 - Lab 7.8.1
+
+### Group 13 - Section 2
 - Jianqi Chai
 - David Kersey
 - Griffin Salyer
