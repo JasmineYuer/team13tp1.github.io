@@ -1,5 +1,3 @@
-# TP1 Presentation
-
 ## Chapter 7 - Lab 7.8.1
 
 ## Group 13 - Section 2
