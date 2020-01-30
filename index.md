@@ -14,7 +14,4 @@ Below you can find the raw R code file. Feel Free to download!
 
 ### Applied Exercise 6
 
-#### a)
 
-
-#### b)
