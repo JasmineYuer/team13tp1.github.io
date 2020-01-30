@@ -1,7 +1,7 @@
 
- ## Lab 7.8.1
+ ### Lab 7.8.1
 
- ## Group 13 - Section 2
+ ### Group 13 - Section 2
 
 - Jianqi Chai
 - David Kersey
