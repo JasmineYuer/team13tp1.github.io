@@ -18,7 +18,7 @@ a. Use 'age' to predict whether someone makes over $250K per year
 
 [Please Visit This Page and Follow Along! -- Lab ](/code/polyandstepR.html)
 
-[Lab 7.8.1 R Script](/code/Lab 7_8_1.R)
+[Lab 7.8.1 R Script](/code/Lab7_8_1.R)
 
 You can also head to the [github repository](https://github.com/griffinsalyer/team13tp1.github.io) and find the formatting for this html code. You are welcome to use this as a resource in the future!
 
