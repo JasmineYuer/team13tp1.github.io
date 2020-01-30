@@ -7,7 +7,7 @@ You can also head to the [github repository](https://github.com/griffinsalyer/te
 [Please Visit This Page and Follow Along! -- Applied Exercise](/code/AppCh7PolyStep.html)
 
 
-### Lab 7.8.1
+### Lab | 7.8.1
 Below you can find the raw R code file. Feel Free to download! 
  
 [Lab 7.8.1 Raw](/code/G13_TP1.R)
