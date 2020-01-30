@@ -12,6 +12,6 @@ Below you can find the raw R code file. Feel Free to download!
  
 [Lab 7.8.1 Raw](/code/G13_TP1.R)
 
-### Applied Exercise 6
+### Applied Exercise | Question 6
 
 
