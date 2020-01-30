@@ -1,5 +1,5 @@
 # Follow Along in Class
-
+------
 [Please Visit This Page and Follow Along! -- Lab ](/code/polyandstepR.html)
 
 You can also head to the [github repository](https://github.com/griffinsalyer/team13tp1.github.io) and find the formatting for this html code. You are welcome to use this as a resource in the future!
