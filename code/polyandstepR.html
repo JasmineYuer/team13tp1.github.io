@@ -403,7 +403,7 @@ plot(age, wage, xlim = agelims, cex = .5, col = &quot;darkgrey&quot;)
 title(&quot;Degree -4 Polynomial&quot;, outer = T)
 lines(age.grid, preds$fit, lwd = 2, col = &quot;blue&quot;)
 matlines(age.grid, se.bands, lwd = 1, col = &quot;blue&quot;, lty = 3)</code></pre>
--![Here Is a Picture](Rplot.png)
+![Here Is a Picture](Rplot.png)
 <p>Next, we demonstrate that we can do the same function in a different way. We use the <code>I()</code> <em>wrapper</em> function becuase this maintains the function the way we want it represented. Essentially, R reads the carrot key, <code>^</code>, as a part of a formula normally - so here we are just telling R not to do this. Using <code>I(age^2)</code> protects us from that formula meaning.</p>
 <p>By using orthogonal polynomials, we can separately test for each coefficient. Now when we look at the summary we see that the linear, quadratic, and cubic terms are significant, but the quartic are not significant. This only works if there is only one term in the model. Otherwise, we will be using the more general ANOVA function.</p>
 <pre class="r"><code>fit2a = lm(wage ~ age + I(age ^2) + I(age ^3) + I(age ^4), data = Wage)
