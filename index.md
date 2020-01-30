@@ -8,8 +8,9 @@ You can also head to the [github repository](https://github.com/griffinsalyer/te
 
 
 ### Lab 7.8.1
+Below you can find the raw R code file. Feel Free to download! 
  
-[Lab 7.8.1 Walkthrough Code](/code/G13_TP1.R)
+[Lab 7.8.1 Raw](/code/G13_TP1.R)
 
 ### Applied Exercise 6
 
