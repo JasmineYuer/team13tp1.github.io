@@ -18,8 +18,6 @@ a. Use 'age' to predict whether someone makes over $250K per year
 
 [Please Visit This Page and Follow Along! -- Lab ](/code/polyandstepR.html)
 
-<a href="polyandstepR.html">Download html File directly</a>
-
 
 [Lab 7.8.1 R Script](/code/Lab7_8_1.R)
 
