@@ -12,7 +12,7 @@ a. Use 'age' to predict whether someone makes over $250K per year
 ### 3. Build and interpret a stepwise function
 
 
-# Links to Rmd and Code
+# Follow Along
 
 ### Lab | 7.8.1 | pg. 287 ISLR
 
