@@ -1,7 +1,10 @@
 # Objectives
 ------
 ### 1. Explore various methods to construct a polynomial regression model using wage and age data
-a. Demonstrate the similarity between the models by predicting 'wage' as a function of 'age' </br>
+a. Demonstrate the similarity between the models by predicting 'wage' as a function of 'age' 
+
+</br>
+
 b. Indicate different methods for choosing what order polynomial to use
 
 ### 2. Construct a polynomial logistic regression model 
