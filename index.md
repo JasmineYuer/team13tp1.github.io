@@ -26,7 +26,7 @@ You can also head to the [github repository](https://github.com/griffinsalyer/te
 
 [Applied Exercise Walkthrough](/code/AppCh7PolyStep.html)
 
-[Applied Exercise R Script](/code/excercise6note.R)
+[Applied Exercise RScript](/code/excercise6note.R)
 
 
 
