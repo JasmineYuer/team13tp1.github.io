@@ -11,6 +11,7 @@ a. Use 'age' to predict whether someone makes over $250K per year
 
 
 # Follow Along
+------
 
 ### Lab | 7.8.1 | pg. 287 ISLR
 
