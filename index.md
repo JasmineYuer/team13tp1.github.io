@@ -12,8 +12,6 @@
 
 [Lab 7.8.1 R Script](/code/Lab7_8_1.R)
 
-You can also head to the [github repository](https://github.com/griffinsalyer/team13tp1.github.io) and find the formatting for this html code. You are welcome to use this as a resource in the future!
-
 ### Applied Exercise | Question 6 | pg. 299 ISLR
 
 [Applied Exercise Walkthrough](/code/AppCh7PolyStep.html)
@@ -24,3 +22,4 @@ You can also head to the [github repository](https://github.com/griffinsalyer/te
 
 
 
+You can also head to the [github repository](https://github.com/griffinsalyer/team13tp1.github.io) and find the formatting for this html code. You are welcome to use this as a resource in the future!
