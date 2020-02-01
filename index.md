@@ -1,6 +1,6 @@
 # Theoretical Overview
 ------
-[Framing the Mentality](/code/Theoretical.html)
+[Framing the Mentality](/code/Theoretical.html)  
 
 
 
