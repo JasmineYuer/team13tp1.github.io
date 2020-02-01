@@ -16,7 +16,7 @@ a. Use 'age' to predict whether someone makes over $250K per year
 
 ### Lab | 7.8.1 | pg. 287 ISLR
 
-[Please Visit This Page and Follow Along! -- Lab ](/code/polyandstepR.html)
+[Lab 7.8.1 Walkthrough](/code/polyandstepR.html)
 
 
 [Lab 7.8.1 R Script](/code/Lab7_8_1.R)
@@ -25,7 +25,7 @@ You can also head to the [github repository](https://github.com/griffinsalyer/te
 
 ### Applied Exercise | Question 6 | pg. 299 ISLR
 
-[Please Visit This Page and Follow Along! -- Applied Exercise](/code/AppCh7PolyStep.html)
+[Applied Exercise Walkthrough](/code/AppCh7PolyStep.html)
 
 [Applied Exercise R Script](/code/excercise6note.R)
 
